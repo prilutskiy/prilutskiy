@@ -2,7 +2,7 @@
 
 This is Max speaking! I build and ship exciting software @ [Typeform](https://github.com/orgs/Typeform/)
 
-## discoverhooks.org
+# discoverhooks.org
 
 Join React.js community at [discoverhooks.org](discoverhooks.org) and receive fresh React Hooks in your inbox every week 🚀
 
